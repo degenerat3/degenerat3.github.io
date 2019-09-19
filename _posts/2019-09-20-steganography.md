@@ -13,7 +13,7 @@ As stated above, stego is about hiding some message or data in plain sight, with
 
 ## How it Works  
 
-One common method for encoding data into images is referred to as [least significant bit](https://pdfs.semanticscholar.org/c07b/e5a1a6f72efcb0d06a642491ee55d6630585.pdf) steganography.  [This image](https://crypto.stackexchange.com/questions/63450/why-doesnt-steganography-increase-the-size-of-an-uncompressed-image) does a good job showing how this concept is applied to each pixel. 
+One common method for encoding data into images is referred to as [least significant bit](https://pdfs.semanticscholar.org/c07b/e5a1a6f72efcb0d06a642491ee55d6630585.pdf) steganography.  [This image](https://i.stack.imgur.com/FnULg.png) does a good job showing how this concept is applied to each pixel. 
 
 Since pixel values are represented as numbers (0-255), we can make small adjustments (for example: 255->253) which would not be visible to the naked eye.  These would, however, allow us to save binary data in the *least significant bits* of each pixel value.  This means we can theoretically store a few bits per pixel (exact number varies depending on the implementation) without a noticeable change in the overall image.  In an HD image there could be millions of pixels, allowing us to store a significant amount of data.  
 
