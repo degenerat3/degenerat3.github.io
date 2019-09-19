@@ -5,7 +5,7 @@ title: Memes as an Attack Vector - Steganography
 
 *Steganography: The technique of hiding secret data within an ordinary, non-secret, file or message in order to avoid detection*  
 
-This post is about a project I did for a presentation at [RITSEC](www.ritsec.club). I'll be briefly describing what steganography is, use cases, then showing an example implementation.  
+This post is about a project I did for a presentation at [RITSEC](https://www.ritsec.club). I'll be briefly describing what steganography is, use cases, then showing an example implementation.  
 
 ## What is Steganography? 
 
