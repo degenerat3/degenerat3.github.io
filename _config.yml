@@ -18,14 +18,14 @@ avatar: /images/monk_sq.jpg
 # Includes an icon in the footer for each username you enter
 footer-links:
   dribbble:
-  email: 
+  email: james@degenerat3sec.world
   facebook:
   flickr:
   github: degenerat3
   instagram:
   linkedin:
   pinterest:
-  rss: # just type anything here for a working RSS icon
+  rss: degenerat3sec# just type anything here for a working RSS icon
   twitter: _degenerat3
   stackoverflow: # your stackoverflow profile, e.g. "users/50476/bart-kiers"
   youtube: # channel/<your_long_string> or user/<user-name>
