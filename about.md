@@ -11,4 +11,4 @@ I'm James, a Computing Security student @ Rochester Institute of Technology and 
 ### Contact me
 [@_degenerat3](https://twitter.com/_degenerat3)  
 
-[degenerat3.sec@gmail.com](mailto:degenerat3.sec@gmail.com)
+[james@degenerat3sec.world](mailto:james@degenerat3sec.world)
