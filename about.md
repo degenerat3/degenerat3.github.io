@@ -9,5 +9,6 @@ I'm James, a Computing Security student @ Rochester Institute of Technology and 
 
 
 ### Contact me
-[@_degenerat3](https://twitter.com/_degenerat3)
+[@_degenerat3](https://twitter.com/_degenerat3)  
+
 [degenerat3.sec@gmail.com](degenerat3.sec@gmail.com)
