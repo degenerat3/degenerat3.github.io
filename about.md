@@ -4,12 +4,10 @@ title: About
 permalink: /about/
 ---
 
-Some information about you!
+I'm James, a Computing Security student @ Rochester Institute of Technology and I'll graduating in December 2019. My professional interests include IR, devops, red team tool development, and anything to do with elasticsearch.  I'm also beginning to look a bit more into reverse engineering, binary exploitation, and some pentesting.
 
-### More Information
 
-A place to include any other types of information that you'd like to include about yourself.
 
 ### Contact me
-
-[email@domain.com](mailto:email@domain.com)
+[@_degenerat3](https://twitter.com/_degenerat3)
+[degenerat3.sec@gmail.com](degenerat3.sec@gmail.com)
