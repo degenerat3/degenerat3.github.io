@@ -3,6 +3,8 @@ layout: post
 title: Abusing Alternate Data Streams
 ---
 
+## NOTE: Images are bodied rn and are only displaying on mobile, this is being investigated.
+
 Alternate Data Streams (ADS) are a feature of Windows, more specifically a feature of NTFS. ADS allow (as the name implies) different streams of data to be stored in a file. While these have some legitimate uses, there is ample room for abuse
 
 ## What are Data Streams?  
@@ -17,7 +19,7 @@ Powershell and CMD make interacting with $DATA and ADS pretty ezpz, but there's 
 
 Let's start by creating a simple text file, `legit.txt`, then examining its data streams.
 
-![ads1]({{site.baseurl}}/images/ads/1.png)
+![ads1](https://degenerat3sec.world/images/ads/1.png)
 
 As we can see, there is only one data stream, and it's the size of the text file we just created. Now we'll copy the Windows Calculator into a new data stream of `legit.txt` then we'll look at the streams again.
 
