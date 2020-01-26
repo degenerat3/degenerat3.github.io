@@ -17,11 +17,7 @@ Powershell and CMD make interacting with $DATA and ADS pretty ezpz, but there's 
 
 Let's start by creating a simple text file, `legit.txt`, then examining its data streams.
 
-![ads1](../images/ads/ads1.PNG){:class="img-responsive"}  
-html test
-<p align="center">
-  <img src="https://raw.githubusercontent.com/degenerat3/degenerat3.github.io/master/images/ads/ads1.PNG" />
-</p>
+![ads1]({{site.baseurl}}/images/ads/ads1.PNG)
 
 As we can see, there is only one data stream, and it's the size of the text file we just created. Now we'll copy the Windows Calculator into a new data stream of `legit.txt` then we'll look at the streams again.
 
