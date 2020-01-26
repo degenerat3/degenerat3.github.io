@@ -23,12 +23,12 @@ Let's start by creating a simple text file, `legit.txt`, then examining its data
 
 As we can see, there is only one data stream, and it's the size of the text file we just created. Now we'll copy the Windows Calculator into a new data stream of `legit.txt` then we'll look at the streams again.
 
-![ads2]({{site.baseurl}}/images/ads/2.png)
+![ads2]({{site.baseurl}}/images/ads/2.png)  
 ![ads3]({{site.baseurl}}/images/ads/3.png)
 
 We can now see that there's a new ADS located inside `legit.txt` that just so happens to be the exact size of `calc.exe`. Speaking of size, one interesting thing about Windows is that ADS are not counted towards file size, so when browsing from Windows Explorer or the `dir` command, only the size of the default stream is calculated (or simple text file). It's not until you look at "file properties -> size on disk" that you can see the size of the whole file, including all streams.
 
-![ads4]({{site.baseurl}}/images/ads/4.png)
+![ads4]({{site.baseurl}}/images/ads/4.png)  
 ![ads5]({{site.baseurl}}/images/ads/5.png)
 
 Now that we've got our executable safely stowed away inside of the text file, lets run it. (Un)fortunately, windows doesn't really allow you to just execute a data stream like a normal executable, but there are [various ways](https://gist.github.com/api0cradle/cdd2d0d0ec9abb686f0e89306e277b8f) to run an ADS, depending on the file type. Here we'll run it with WMIC. As you can see, we pop off a process create and the calculator spins up for us. Perfect!
