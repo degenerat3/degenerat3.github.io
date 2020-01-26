@@ -3,9 +3,7 @@ layout: post
 title: Abusing Alternate Data Streams
 ---
 
-### NOTE: Images for this post are bodied rn for some reason, am investigating
-
-Alternate Data Streams (ADS) are a feature of Windows, more specifically a feature of NTFS. ADS allow (as the name implies) different streams of data to be stored in a file.
+Alternate Data Streams (ADS) are a feature of Windows, more specifically a feature of NTFS. ADS allow (as the name implies) different streams of data to be stored in a file. While these have some legitimate uses, there is ample room for abuse
 
 ## What are Data Streams?  
 In order to have an "alternate" data stream, that must mean we have a default stream as well, right? To understand exactly what a stream is, you have to know how NTFS files actually work. I'll explain an extremely small aspect, but the full explanation is out of the scope of this post and I would recommend looking into a resource like [this](https://thestarman.pcministry.com/asm/mbr/IntNTFSfs.htm).  
