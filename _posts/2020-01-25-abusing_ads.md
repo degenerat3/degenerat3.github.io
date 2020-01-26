@@ -21,7 +21,7 @@ Let's start by creating a simple text file, `legit.txt`, then examining its data
 
 html test
 <p align="center">
-  <img src="https://github.com/degenerat3/degenerat3.github.io/images/ads/ads1.PNG"title="ads1">
+  <img src="https://github.com/degenerat3/degenerat3.github.io/raw/master/images/ads/ads1.PNG"title="ads1">
 </p>
 
 As we can see, there is only one data stream, and it's the size of the text file we just created. Now we'll copy the Windows Calculator into a new data stream of `legit.txt` then we'll look at the streams again.
