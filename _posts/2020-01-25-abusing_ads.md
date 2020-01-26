@@ -19,7 +19,7 @@ Powershell and CMD make interacting with $DATA and ADS pretty ezpz, but there's 
 
 Let's start by creating a simple text file, `legit.txt`, then examining its data streams.
 
-![ads1](https://degenerat3sec.world/images/ads/1.png)
+![ads1](https://degenerat3sec.world/images/ads/1.png){:class="img-responsive"}
 
 As we can see, there is only one data stream, and it's the size of the text file we just created. Now we'll copy the Windows Calculator into a new data stream of `legit.txt` then we'll look at the streams again.
 
