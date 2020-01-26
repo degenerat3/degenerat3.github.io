@@ -19,6 +19,10 @@ Let's start by creating a simple text file, `legit.txt`, then examining its data
 
 ![ads1](../images/ads/ads1.PNG){:class="img-responsive"}  
 
+markdown attempt   
+
+![Some text]({{site.url}}/images/ads/ads1.PNG)
+
 html test
 <p align="center">
   <img src="https://raw.githubusercontent.com/degenerat3/degenerat3.github.io/master/images/ads/ads1.PNG"title="ads1">
